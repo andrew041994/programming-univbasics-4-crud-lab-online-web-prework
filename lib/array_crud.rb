@@ -7,6 +7,7 @@ dog_types=["morkie","dachshund","husky","pitbul"]
 end
 
 def add_element_to_end_of_array(array, element)
+  dog_types << "weimerainer"
 
 end
 
