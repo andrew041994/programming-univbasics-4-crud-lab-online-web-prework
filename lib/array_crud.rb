@@ -29,7 +29,7 @@ remove_element_from_start_of_array.shift
 end
 
 def retrieve_element_from_index(array, index_number)
-  retrieve_element_from_index= ["i","am","great"]
+  retrieve_element_from_index= ["i","great","am"]
   puts retrieve_element_from_index=[2]
 end
 
